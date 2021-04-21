@@ -1,2 +1,2 @@
 # Python_codes
-Codes maked in python language
+Codes made in python language
